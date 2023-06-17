@@ -1,0 +1,13 @@
+n=50
+a=0
+b=1
+print(a)
+print(b)
+
+while b<n:
+   
+    x=a+b
+    a=b
+  
+    b=x
+    print(x)
